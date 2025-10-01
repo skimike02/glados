@@ -13,7 +13,7 @@ piper-phonemize==1.1.0
 piper-tts==1.2.0
 protobuf==5.29.5
 pycparser==2.22
-requests==2.32.3
+requests==2.32.4
 sounddevice==0.5.1
 sympy==1.13.3
 urllib3==2.5.0
